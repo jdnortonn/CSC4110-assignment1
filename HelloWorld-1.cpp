@@ -1,5 +1,5 @@
 // Simple C++ program to display "Hello World" 
-// Header file for input output functions 
+// author John Norton email hp9251@wayne.edu
 #include<iostream>  
   
 using namespace std; 
